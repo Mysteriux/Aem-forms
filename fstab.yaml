@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://a122-103-226-200-60.ngrok-free.app/bin/franklin.delivery/<owner>/<repository>/main"
+    type: "markup"
+    suffix: ".html"
